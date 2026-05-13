@@ -17,34 +17,27 @@ Esta uma aplicação desenvolvida em Python para o download de vídeos do Youtub
 ## 🛠️ Instalação e Configuração
 Siga os passos abaixo para configurar o ambiente de desenvolvimento local:
 
-Clonar o repositório:
-
-Bash
-git clone [https://github.com/cauan-castro/Downloader-yt](https://github.com/seu-usuario/nome-do-repositorio.git)
-cd nome-do-repositorio
+Clonar o repositório:\
+git clone [https://github.com/cauan-castro/Downloader-yt](https://github.com/seu-usuario/nome-do-repositorio.git)\
+cd nome-do-repositorio\
 Criar o ambiente virtual (venv): python3 -m venv venv
 
 ### ative o ambiente virtual
 
-No Linux/macOS:
-
-Bash
+No Linux/macOS:\
 source venv/bin/activate
 
-No Windows:
-
-Bash
+No Windows:\
 .\\venv\\Scripts\\activate
 
 ## Instale as dependências
 
-Bash
 pip install -r requirements.txt
 
 💻 Como Usar
 Com o ambiente virtual ativado, execute o script principal:
 
-Bash
+Bash\
 python main.py
 
 Siga as instruções que aparecerão no terminal para inserir a URL do vídeo e escolher as opções de download.
