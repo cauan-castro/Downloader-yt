@@ -47,7 +47,7 @@ $ .\\venv\\Scripts\\activate
 pip install -r requirements.txt
 ```
 
-💻 Como Usar
+💻 Como Usar \
 Com o ambiente virtual ativado, execute o script principal:
 
 ```Bash
