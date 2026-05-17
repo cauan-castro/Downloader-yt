@@ -1,7 +1,7 @@
 # Downloader de vídeo
 
 ## Descrição 
-Esta uma aplicação desenvolvida em Python para o download de vídeos do Youtube. O objetivo desse projeto é para meu apredizado com a linguagem e suas bibliotecas. Portanto para downloads oficiais utilize o própio Youtube para isso.
+Esta uma aplicação desenvolvida em Python para o download de vídeos do Youtube. O objetivo desse projeto é para meu apredizado com a linguagem e suas bibliotecas. Portanto, para downloads oficiais utilize o própio Youtube para isso.
 
 ## Como funciona
 O programa dará as boas vindas a você usuário e logo em seguida irá pedi-lo que digite a URL (link do vídeo). Então, ele fará uma verificação para conferir se a URL está correta ou se o vídeo existe no youtube e em seguida pedirá para confirmar o download e fará o download, na máxima qualidade disponível, ou não, dependendo da resposta. Por fim, o programa irá perguntar se o usuário deseja fazer o download de outro vídeo e fará o mesmo processo de antes caso o usuário diga que sim  
